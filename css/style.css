@@ -4725,7 +4725,7 @@ textarea.form-control-lg {
   justify-content: center;
   width: 15%;
   padding: 0;
-  color: #fff;
+  background-color: black;
   text-align: center;
   background: none;
   border: 0;
@@ -9019,4 +9019,8 @@ textarea.form-control-lg {
   .d-print-none {
     display: none !important;
   }
+}
+.cacousel-control-next-icon {
+  width: 30px;
+  height: 30px;
 }/*# sourceMappingURL=style.css.map */
